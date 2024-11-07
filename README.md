@@ -2,7 +2,7 @@
 <br>
 [thsn.dev](https://www.thsn.dev)
 
-→ Computational Engineer, PhD Student, Digital Creator.
+→ Computational Engineer, Applied Mathematician, Digital Creator.
 <br>
 @ [RWTH Aachen University](https://www.rwth-aachen.de) / [University of Stuttgart](https://www.uni-stuttgart.de/)
  
