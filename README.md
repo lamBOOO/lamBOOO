@@ -5,8 +5,12 @@
 → Computational Engineer, Applied Mathematician, Digital Creator.
 <br>
 @ [RWTH Aachen University](https://www.rwth-aachen.de) / [University of Stuttgart](https://www.uni-stuttgart.de/)
- 
-🔥 Researching PDE eigenvalue problems, asymptotic analysis of expanding domains, directional homogenization, preconditioners for eigenvalue algorithms, preconditioners for linear solvers, spectral coarse spaces for domain decomposition, and Galerkin methods for moment models in rarefied gas modelling.
+
+<p>
+  <samp>
+    🔥 Researching PDE eigenvalue problems, asymptotic analysis of expanding domains, directional homogenization, preconditioners for eigenvalue algorithms, preconditioners for linear solvers, spectral coarse spaces for domain decomposition, and Galerkin methods for moment models in rarefied gas modelling.
+  </samp>
+</p>
  
 <!---
 lamBOOO/lamBOOO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
